@@ -16,13 +16,13 @@ export const site = {
     primaryWhatsApp:
       'https://wa.me/5527998635220?text=Ol%C3%A1%2C%20vim%20pelo%20Instagram%20e%20gostaria%20de%20um%20or%C3%A7amento.',
     alternateWhatsApp: 'https://wa.me/5527995052191',
-    maps: 'https://www.google.com/maps/search/?api=1&query=Guarapari%20ES',
+    google: 'https://share.google/9a326PNEQwLpbbSwf',
     instagram: 'https://www.instagram.com/centroarclima/',
   },
   links: {
     primary: 'Solicitar orçamento pelo WhatsApp',
     alternate: 'WhatsApp alternativo',
-    maps: 'Nossa região no Google Maps',
+    google: 'Ver no Google',
     instagram: 'Instagram oficial',
   },
   services: {

@@ -34,7 +34,7 @@ function App() {
             label={site.links.alternate}
             icon={Phone}
           />
-          <LinkButton href={site.contact.maps} label={site.links.maps} icon={MapPin} />
+          <LinkButton href={site.contact.google} label={site.links.google} icon={MapPin} />
           <LinkButton href={site.contact.instagram} label={site.links.instagram} icon={Instagram} />
         </nav>
 
